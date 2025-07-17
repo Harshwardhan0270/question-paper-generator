@@ -6,7 +6,10 @@ import os
 import docx  # type: ignore
 from io import BytesIO
 import time
+import os
+from dotenv import load_dotenv
 
+load_dotenv()
 # Set the Streamlit page configuration
 st.set_page_config(
     page_title="Question Generator",
