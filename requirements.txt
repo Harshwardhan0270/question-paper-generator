@@ -7,3 +7,20 @@ nltk
 matplotlib
 streamlit-lottie
 streamlit-aggrid    
+streamlit
+nltk
+matplotlib
+pandas
+numpy
+scikit-learn
+seaborn
+Pillow
+from langchain_groq import Groq
+from langchain_core import LLMChain, PromptTemplate
+from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.messages import HumanMessage
+from langchain_core.messages import AIMessage
+from langchain_core.messages import SystemMessage
+
+
+from langchain_core.messages import BaseMessage

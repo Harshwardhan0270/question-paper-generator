@@ -30,28 +30,28 @@ blooms_taxonomy = {
         "verbs": ["define", "duplicate", "list", "memorize", "recall", "repeat", "reproduce", "state", "identify", "name", "recognize"],
         "question_starters": ["What is...", "Who was...", "When did...", "How would you describe...", "Can you recall...", "How would you define...", "How would you identify..."],
         "example": "What are the six levels of Bloom's Taxonomy?",
-       "image_url": r"F:\project lab python\pages\understand-at-10.17.30-copy-1-1024x575.jpg"
+       "image_url": r"images/remember-at-10.17.08-copy-1-1024x575.jpg"
     },
     "Understand": {
         "description": "Explain ideas or concepts",
         "verbs": ["classify", "describe", "discuss", "explain", "identify", "locate", "recognize", "report", "select", "translate", "paraphrase", "interpret", "summarize"],
         "question_starters": ["How would you classify...", "How would you compare...", "What is the main idea of...", "Can you explain what is happening...", "How would you summarize...", "How would you rephrase..."],
         "example": "Explain the difference between the Remember and Understand levels in Bloom's Taxonomy.",
-        "image_url": r"F:\project lab python\pages\Screenshot-2020-10-13-at-10.17.02-copy-1-1024x575.jpg"
+        "image_url": r"images/understand-at-10.17.30-copy-1-1024x575.jpg"
     },
     "Apply": {
         "description": "Use information in new situations",
         "verbs": ["execute", "implement", "solve", "use", "demonstrate", "interpret", "operate", "schedule", "sketch", "apply", "employ", "illustrate", "practice"],
         "question_starters": ["How would you use...", "What examples can you find to...", "How would you solve __ using what you've learned...", "How would you organize __ to show...", "How would you apply what you learned to develop..."],
         "example": "Using Bloom's Taxonomy, create a set of questions for teaching photosynthesis.",
-        "image_url": r"F:\project lab python\pages\apply-at-10.17.53-copy-1-1024x575.jpg"
+        "image_url": r"images/apply-at-10.17.53-copy-1-1024x575.jpg"
     },
     "Analyze": {
         "description": "Draw connections among ideas",
         "verbs": ["differentiate", "organize", "relate", "compare", "contrast", "distinguish", "examine", "experiment", "question", "test", "analyze", "categorize", "criticize", "diagram"],
         "question_starters": ["What are the parts or features of...", "How is __ related to...", "Why do you think...", "What is the theme...", "What motive is there...", "What conclusions can you draw..."],
         "example": "Analyze how different question types affect student engagement in online learning.",
-        "image_url": r"F:\project lab python\pages\analyze-13-at-10.18.24-copy-1-1024x575.jpg"
+        "image_url": r"images/analyze-at-10.18.16-copy-1-1024x575.jpg"
           
     },
     "Evaluate": {
@@ -59,14 +59,14 @@ blooms_taxonomy = {
         "verbs": ["appraise", "argue", "defend", "judge", "select", "support", "value", "evaluate", "critique", "weigh", "assess", "choose", "compare", "conclude", "measure"],
         "question_starters": ["Do you agree with the actions...", "What is your opinion of...", "How would you prove/disprove...", "How would you evaluate...", "What choice would you have made...", "What data was used to make the conclusion..."],
         "example": "Evaluate the effectiveness of using Bloom's Taxonomy in curriculum design.",
-        "image_url": r"F:\project lab python\pages\evaluate3-at-10.18.56-copy-1-1024x575.jpg"
+        "image_url": r"images/evaluate-at-10.18.56-copy-1-1024x575.jpg"
     },
     "Create": {
         "description": "Produce new or original work",
         "verbs": ["design", "assemble", "construct", "conjecture", "develop", "formulate", "author", "investigate", "create", "compose", "generate", "plan", "produce", "devise", "invent"],
         "question_starters": ["What would happen if...", "Can you design a __ to...", "Can you see a possible solution to...", "How would you devise your own way to...", "What would you create to change...", "How would you test..."],
         "example": "Design a new educational framework that builds upon Bloom's Taxonomy for the digital age.",
-        "image_url": r"F:\project lab python\pages\create.jpg"
+        "image_url": r"images/create-at-10.19.27-copy-1-1024x575.jpg"
     }
 }
 
