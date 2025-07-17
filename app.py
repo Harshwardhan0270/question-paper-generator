@@ -126,7 +126,8 @@ if "long_questions" not in st.session_state:
 st.title("Test Paper Generator using :red[Bloom's Taxonomy]📚")
 
 # Sidebar with a custom background and title
-st.sidebar.image(r"F:\\copy\\compressed_becd011b419db54d4ea278a2d0425d7b.png", use_container_width=True)
+st.sidebar.image("assets/compressed_becd011b419db54d4ea278a2d0425d7b.png")
+st.sidebar.title("Question Generator")
 st.sidebar.header("Input Details")
 
 # User Inputs
